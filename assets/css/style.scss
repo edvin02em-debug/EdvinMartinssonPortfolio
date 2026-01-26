@@ -3,42 +3,56 @@
 
 @import "{{ site.theme }}";
 
+/* Header gradient colors (left → right) */
+$header-left: #ffffff;
+$header-right: #ffffff;
+
+/* Background gradient colors (top → bottom) */
+$bg-top: #2F4F4F;
+$bg-bottom: #FF6347;
+
+/* Text color */
+$text-color: #FFF8DC;
+
 /* =========================
-   HEADER
+   HEADER BACKGROUND
    ========================= */
 .page-header {
-  background: #FFF8DC !important;
+  background: linear-gradient(to right, $header-left, $header-right) !important;
   background-image: none;
 }
 
+/* =========================
+   HEADER TEXT
+   ========================= */
 .project-name,
 .project-tagline {
-  color: #2F4F4F !important;
+  color: $text-color !important;
 }
 
 /* =========================
    PAGE BACKGROUND
    ========================= */
 body {
-  background-color: #2F4F4F;
-  color: #FFF8DC;
+  background: linear-gradient(to bottom, $bg-top, $bg-bottom);
+  color: $text-color;
 }
 
 /* =========================
-   TITLES & TEXT (SAME COLOR)
+   TITLES & TEXT
    ========================= */
 h1, h2, h3, h4, h5, h6,
 .main-content,
 .main-content p,
 .main-content li {
-  color: #FFDEAD;
+  color: $text-color;
 }
 
 /* =========================
-   LINKS (same color too)
+   LINKS
    ========================= */
 a {
-  color: #FFF8DC;
+  color: $text-color;
 }
 
 a:hover {
