@@ -2,9 +2,9 @@ title: Portfolio Edvin Martinsson Portfolio
 #logo:
 #description
 #show_downloads: true
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-cayman
 
 color:
   header: "#1e90ff"
   header-text: "#000000"
-  section: "#f5f7a"
+  section: "#f5f7fa"
