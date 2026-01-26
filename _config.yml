@@ -2,7 +2,7 @@
 #logo:
 #description
 #show_downloads: true
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 # --- Site basics ---
 title: "Your Name"
@@ -11,7 +11,7 @@ url: "https://YOUR-USERNAME.github.io"
 baseurl: ""   # keep empty for a user site
 
 # --- Theme ---
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 # --- Header button ---
 # Cayman shows a big button if this is true
