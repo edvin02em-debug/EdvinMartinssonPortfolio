@@ -6,5 +6,5 @@ theme: jekyll-theme-Cayman
 
 color:
   header: "#1e90ff"
-  header-text: "#fffffff"
+  header-text: "#000000"
   section: "#f5f7a"
