@@ -4,19 +4,19 @@
 @import "{{ site.theme }}";
 
 /* Header gradient colors (left → right) */
-$header-left: #ffffff;
-$header-right: #ffffff;
+$header-left: #2F4F4F;
+$header-right: #B22222;
 
 /* Background gradient colors (top → bottom) */
 $bg-top: #2F4F4F;
 $bg-bottom: #000000;
 
 /* Header title colors */
-$header-title-color: #FFF8DC;
+$header-title-color: #008080;
 $header-tagline-color: #FFF8DC;
 
 /* Page title colors (h1–h6) */
-$page-title-color: #FFF8DC;
+$page-title-color: #FFA07A;
 
 /* Page text color */
 $text-color: #FFF8DC;
