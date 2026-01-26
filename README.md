@@ -20,10 +20,10 @@ text
 ### Download CV
 file location
 ### Contact info
-###### Email
+#### Email
 edvin02.em@gmail.com
-###### Phone number
+##### Phone number
 +46-72-731-1846
-###### Adress
+##### Adress
 431 31 Mölndal
 Broslättsgatan 37b
