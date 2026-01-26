@@ -1,5 +1,48 @@
-#title: Edvin Martinsson
+#title: Edvin Martinsson Portfolio
 #logo:
 #description
 #show_downloads: true
+#theme: jekyll-theme-cayman
+
+# --- Site basics ---
+title: "Your Name"
+description: "Portfolio • Projects • Resume"
+url: "https://YOUR-USERNAME.github.io"
+baseurl: ""   # keep empty for a user site
+
+# --- Theme ---
 theme: jekyll-theme-cayman
+
+# --- Header button ---
+# Cayman shows a big button if this is true
+# You can use it to link a resume PDF
+show_downloads: true
+
+# --- Markdown ---
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# --- Projects collection ---
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# --- Default layouts ---
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      type: projects
+    values:
+      layout: page
+
+# --- Author info (not shown automatically, but usable in pages) ---
+author:
+  name: "Your Name"
+  github: "YOUR-USERNAME"
+  linkedin: "your-linkedin-handle"
+  email: "you@email.com"
