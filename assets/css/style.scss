@@ -3,19 +3,44 @@
 
 @import "{{ site.theme }}";
 
-/* Header background */
+/* =========================
+   HEADER
+   ========================= */
 .page-header {
-  background-color: #8FBC8F;
+  background: #8FBC8F !important;
   background-image: none;
 }
 
-/* Header text */
 .project-name,
 .project-tagline {
+  color: #FFF8DC !important;
+}
+
+/* =========================
+   PAGE BACKGROUND
+   ========================= */
+body {
+  background-color: #2F4F4F;
   color: #FFF8DC;
 }
 
-/* Page background */
-body {
-  background-color: #2F4F4F;
+/* =========================
+   TITLES & TEXT (SAME COLOR)
+   ========================= */
+h1, h2, h3, h4, h5, h6,
+.main-content,
+.main-content p,
+.main-content li {
+  color: #FFF8DC;
+}
+
+/* =========================
+   LINKS (same color too)
+   ========================= */
+a {
+  color: #FFF8DC;
+}
+
+a:hover {
+  text-decoration: underline;
 }
