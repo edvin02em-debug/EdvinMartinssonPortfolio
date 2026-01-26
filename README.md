@@ -1,15 +1,12 @@
-# EdvinMartinssonPortfolio
+# Edvin Martinsson Portfolio
 
 ### Education
 Product design, Chalmers
 
 ### Work Experience
 
-DS Smith
-
-Göteborgs Stads Leasing
-
-Bors Press
-
-UB Verktyg
+1. DS Smith
+2. Göteborgs Stads Leasing
+3. Bors Press
+4. UB Verktyg
 
