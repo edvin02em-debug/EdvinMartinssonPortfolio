@@ -4,15 +4,15 @@
 @import "{{ site.theme }}";
 
 /* Header gradient colors (left → right) */
-$header-left: #2F4F4F;
-$header-right: #B22222;
+$header-edge: #000000;
+$header-center: #2F4F4F;
 
 /* Background gradient colors (top → bottom) */
 $bg-top: #2F4F4F;
 $bg-bottom: #000000;
 
 /* Header title colors */
-$header-title-color: #008080;
+$header-title-color: #FFF8DC;
 $header-tagline-color: #FFF8DC;
 
 /* Page title colors (h1–h6) */
@@ -25,7 +25,12 @@ $text-color: #FFF8DC;
    HEADER BACKGROUND
    ========================= */
 .page-header {
-  background: linear-gradient(to right, $header-left, $header-right) !important;
+  background: linear-gradient(
+    to right,
+    $header-edge 0%,
+    $header-center 50%,
+    $header-edge 100%
+  ) !important;
   background-image: none;
 }
 
@@ -51,7 +56,12 @@ body {
 /* =========================
    PAGE TITLES
    ========================= */
-h1, h2, h3, h4, h5, h6 {
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
   color: $page-title-color;
 }
 
