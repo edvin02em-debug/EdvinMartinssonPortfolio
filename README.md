@@ -9,6 +9,6 @@ Product design, Chalmers year 2
 * Bors Press
 * UB Verktyg
 
-## About me
+##### About me
 
-## Contact info
+# Contact info
