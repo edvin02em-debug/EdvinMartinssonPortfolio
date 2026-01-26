@@ -1,13 +1,9 @@
-# Edvin Martinsson
-## Education
-Product design, Chalmers year 2
+#### Edvin Martinsson
+# Portfolio
 
-## Work Experience
-* LageroperatörDS Smith
-* Göteborgs Stads Leasing
-* Bors Press
-* UB Verktyg
+## Download CV
+file location
 
-#### About me
+### About me
 
-# Contact info
+### Contact info
