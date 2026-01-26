@@ -1,0 +1,18 @@
+@import "{{ site.theme }}";
+
+/* Header background */
+.page-header {
+  background-color: #1e90ff;
+  background-image: none;
+}
+
+/* Header text */
+.project-name,
+.project-tagline {
+  color: #000000;
+}
+
+/* Page background */
+body {
+  background-color: #f5f7fa;
+}
