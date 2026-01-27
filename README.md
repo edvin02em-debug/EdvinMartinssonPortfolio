@@ -9,22 +9,26 @@ Frida - förbättra skolmiljön
 
 
 Skotarkran - ett mekanikprojekt
-![Skotarkran ritning](assets/photos/ritning_rapport.jpg)
 
+<p align="center">
+  <img src="assets/photos/ritning_rapport.jpg" alt="skotarkran" style="max-width:600px; width:80%;">
+</p>
 
 Vagn för färgbutik - ett ergonomiprojekt
 
 
 ### Alias
 Parfymflaska
-![parfymflaska](assets/photos/parfymflaska.jpg)
+
 <p align="center">
-  <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:50%;">
+  <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
 </p>
 
 Tåg
 ![train](assets/photos/train.jpg)
-
+<p align="center">
+  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:35%;">
+</p>
 
 Dammsugare
 ![dammsugare](assets/photos/dammsugare.jpg)
