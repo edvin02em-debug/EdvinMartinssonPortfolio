@@ -1,17 +1,17 @@
-
-
-
-
-
-
-  ## Computer Aided Design
+# Portfolio
+## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
 ### CATIA
-Fiskelåda
+Fiskelåda - CAD kurs
 
 
-Frida
+Frida - förbättra skolmiljön
 
+
+Skotarkran - ett mekanikprojekt
+
+
+Vagn för färgbutik - ett ergonomiprojekt
 
 
 ### Alias
@@ -26,6 +26,30 @@ Dammsugare
 ### Jack
 
 ### Husbil
+pictures
+
+wiring diagram
+
+
+
+### Photoshop & Illustrator
+Posters
+  Bioplastik från nanocellulosa
+
+  Kamera
+
+  Sadelstolpe - Materialteknik
+
+  
+
+### Sketching
+Bentley Municipal - a city car concept
+
+
+
+
+### övriga 
+
 
 
 
