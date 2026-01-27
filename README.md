@@ -1,24 +1,29 @@
+# Portfolio
+
 ## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
 ### CATIA
-Parfymflaska
+Fiskelåda
 
-pictures
 
-project name 1
+Frida
 
-pictures
+
 
 ### Alias
-project name 1
+Parfymflaska
 
-pictures
 
-project name 1
+Tåg
 
-pictures
 
-###Jack
+Dammsugare
+
+### Jack
+
+### Husbil
+
+
 
 
 
