@@ -92,12 +92,16 @@ a:hover {
   gap: 1rem;
 }
 
-.image-grid img {
-  width: 100%;
+.img-wrap {
   height: 220px;
-  object-fit: contain;
-
-  border-radius: 12px;   /* rounded corners */
+  border-radius: 12px;
+  overflow: hidden;
 }
 
+.img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
 
