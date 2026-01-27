@@ -46,7 +46,7 @@ Posters
 
 ### Sketching
 Bentley Municipal - a city car concept
-
+![bentley1](assets/photos/bentlay.jpg)
 
 
 
