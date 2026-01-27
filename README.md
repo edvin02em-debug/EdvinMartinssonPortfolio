@@ -27,10 +27,11 @@ Dammsugare
 ### Jack
 
 ### Husbil
-pictures
 
-wiring diagram
 
+
+Elsystem
+![elsystem](assets/photos/IMG_1858.png)
 
 
 ### Photoshop & Illustrator
