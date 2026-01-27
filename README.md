@@ -12,6 +12,8 @@ Skotarkran - ett mekanikprojekt
 <div class="gallery">
   <img src="/assets/photos/ritning_rapport.jpg">
 
+
+
 Vagn för färgbutik - ett ergonomiprojekt
 
 
