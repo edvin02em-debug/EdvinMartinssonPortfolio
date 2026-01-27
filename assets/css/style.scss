@@ -95,7 +95,7 @@ a:hover {
 .image-grid img {
   width: 100%;
   height: 220px;        /* SAME HEIGHT */
-  object-fit: cover;   /* crop instead of stretch */
+  object-fit: contain;   /* zoom to fit */
   border-radius: 8px;  /* optional but nice */
 }
 
