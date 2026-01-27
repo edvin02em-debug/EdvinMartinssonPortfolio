@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+
+
 # Portfolio
 ## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
@@ -22,20 +28,18 @@ Skotarkran - ett mekanikprojekt
   <img src="assets/photos/ritning_rapport.jpg" alt="skotarkran" style="max-width:600px; width:80%;">
 </p>
 
----
-layout: default
----
 
-<h2>Min video</h2>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe
-    src="https://www.youtube.com/embed/3OfFaBL2seE"
-    style="position: absolute; inset: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/3OfFaBL2seE"
+  title="YouTube video"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 
 
 Vagn för färgbutik - ett ergonomiprojekt
