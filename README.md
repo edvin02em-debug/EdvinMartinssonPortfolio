@@ -22,6 +22,16 @@ Skotarkran - ett mekanikprojekt
   <img src="assets/photos/ritning_rapport.jpg" alt="skotarkran" style="max-width:600px; width:80%;">
 </p>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="[https://www.youtube.com/embed/VIDEO_ID](https://youtu.be/3OfFaBL2seE)"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
 Vagn för färgbutik - ett ergonomiprojekt
 <p align="center">
   <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="ergonomivagnen1" style="max-width:600px; width:50%;">
