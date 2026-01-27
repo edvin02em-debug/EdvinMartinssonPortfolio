@@ -88,11 +88,14 @@ a:hover {
 
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1rem;
 }
 
 .image-grid img {
   width: 100%;
-  height: auto;
+  height: 220px;        /* SAME HEIGHT */
+  object-fit: cover;   /* crop instead of stretch */
+  border-radius: 8px;  /* optional but nice */
 }
+
