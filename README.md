@@ -7,8 +7,8 @@ Fiskelåda - CAD kurs
 
 Frida - förbättra skolmiljön
 <div class="image-grid">
-  <img src="assets/photos/Skärmbild 2025-05-23 112200.png">
-  <img src="assets/photos/Skärmbild 2025-05-26 013518.png">
+  <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
+  <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
 </div>
 
 <p align="center">
