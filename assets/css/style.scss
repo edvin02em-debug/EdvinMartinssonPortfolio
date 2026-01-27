@@ -94,8 +94,8 @@ a:hover {
 
 .img-wrap {
   height: 220px;
-  border-radius: 12px;
-  overflow: hidden;
+  border-radius: 16px !important;
+  overflow: hidden !important;
 }
 
 .img-wrap img {
@@ -103,5 +103,9 @@ a:hover {
   height: 100%;
   object-fit: contain;
   display: block;
+}
+
+.img-wrap {
+  outline: 2px solid red;
 }
 
