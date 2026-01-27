@@ -84,3 +84,15 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+}
