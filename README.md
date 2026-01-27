@@ -6,6 +6,11 @@ Fiskelåda - CAD kurs
 
 
 Frida - förbättra skolmiljön
+<div class="image-grid">
+  <img src="assets/photos/Skärmbild 2025-05-23 112200.png">
+  <img src="assets/photos/Skärmbild 2025-05-26 013518.png">
+</div>
+
 <p align="center">
   <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="frida1" style="max-width:600px; width:50%;">
 </p>
