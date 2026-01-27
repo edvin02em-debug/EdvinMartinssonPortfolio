@@ -18,7 +18,9 @@ Vagn för färgbutik - ett ergonomiprojekt
 ### Alias
 Parfymflaska
 ![parfymflaska](assets/photos/parfymflaska.jpg)
-
+<p align="center">
+  <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:70%;">
+</p>
 
 Tåg
 ![train](assets/photos/train.jpg)
