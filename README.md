@@ -10,7 +10,6 @@ Frida - förbättra skolmiljön
   <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="frida1" style="max-width:600px; width:50%;">
 </p>
 
-![frida2](assets/photos/Skärmbild 2025-05-26 013518.png)
 <p align="center">
   <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="frida2" style="max-width:600px; width:50%;">
 </p>
@@ -23,14 +22,12 @@ Skotarkran - ett mekanikprojekt
 </p>
 
 Vagn för färgbutik - ett ergonomiprojekt
-![ergonomivagnen1](assets/photos/Skärmbild 2025-12-15 003823.png)
 <p align="center">
-  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
+  <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="ergonomivagnen1" style="max-width:600px; width:50%;">
 </p>
 
-![ergonomivagnen2](assets/photos/Skärmbild 2025-12-17 145659.png)
 <p align="center">
-  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
+  <img src="assets/photos/Skärmbild 2025-12-17 145659.png" alt="ergonomivagnen2" style="max-width:600px; width:50%;">
 </p>
 
 ### Alias
