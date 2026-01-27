@@ -6,6 +6,14 @@ Fiskelåda - CAD kurs
 
 
 Frida - förbättra skolmiljön
+<p align="center">
+  <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="frida1" style="max-width:600px; width:50%;">
+</p>
+
+![frida2](assets/photos/Skärmbild 2025-05-26 013518.png)
+<p align="center">
+  <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="frida2" style="max-width:600px; width:50%;">
+</p>
 
 
 Skotarkran - ett mekanikprojekt
@@ -15,47 +23,60 @@ Skotarkran - ett mekanikprojekt
 </p>
 
 Vagn för färgbutik - ett ergonomiprojekt
+![ergonomivagnen1](assets/photos/Skärmbild 2025-12-15 003823.png)
+<p align="center">
+  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
+</p>
 
+![ergonomivagnen2](assets/photos/Skärmbild 2025-12-17 145659.png)
+<p align="center">
+  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
+</p>
 
 ### Alias
 Parfymflaska
-
 <p align="center">
   <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
 </p>
 
 Tåg
-![train](assets/photos/train.jpg)
 <p align="center">
-  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:35%;">
+  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
 </p>
 
 Dammsugare
-![dammsugare](assets/photos/dammsugare.jpg)
-
+<p align="center">
+  <img src="assets/photos/dammsugare.jpg" alt="dammsugare" style="max-width:600px; width:50%;">
+</p>
 
 ### Jack
 
 ### Husbil
-![husbil](assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg)
+<p align="center">
+  <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="husbil1" style="max-width:600px; width:50%;">
+</p>
 
+<p align="center">
+  <img src="assets/photos/att.F4Gd_sK2eYNHQhmM_ckzE_KoDN_GyqB4aE1gGag-TvA.jpeg" alt="husbil2" style="max-width:600px; width:50%;">
+</p>
 
-![husbil](assets/photos/att.F4Gd_sK2eYNHQhmM_ckzE_KoDN_GyqB4aE1gGag-TvA.jpeg)
+<p align="center">
+  <img src="assets/photos/att.aqGFWg5o3uMpG7AOZaNO3J8tbrJF2id04T686qc9T1E.jpeg" alt="husbil3" style="max-width:600px; width:50%;">
+</p>
 
+<p align="center">
+  <img src="assets/photos/att.u3H1d1rGUjPGBhjNjtqnSpF3Qh9wBqK_A9rWGSQHiu4.jpeg" alt="husbil4" style="max-width:600px; width:50%;">
+</p>
 
-![husbil](assets/photos/att.aqGFWg5o3uMpG7AOZaNO3J8tbrJF2id04T686qc9T1E.jpeg)
-
-
-![husbil](assets/photos/att.u3H1d1rGUjPGBhjNjtqnSpF3Qh9wBqK_A9rWGSQHiu4.jpeg)
-
-
-![husbil](assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg)
-
+<p align="center">
+  <img src="assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg" alt="husbil5" style="max-width:600px; width:50%;">
+</p>
 
 
 Elsystem
-![elsystem](assets/photos/IMG_1858.png)
-
+<p align="center">
+  <img src="assets/photos/IMG_1858.png" alt="elsystem" style="max-width:600px; width:50%;">
+</p>
 
 ### Photoshop & Illustrator
 Posters
@@ -69,21 +90,13 @@ Posters
 
 ### Sketching
 Bentley Municipal - a city car concept
-![bentley1](assets/photos/bentlay.jpg)
-
+<p align="center">
+  <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
+</p>
 
 
 ### övriga 
-![](assets/photos/Skärmbild 2025-05-23 112200.png)
 
-
-![](assets/photos/Skärmbild 2025-05-26 013518.png)
-
-
-![](assets/photos/Skärmbild 2025-12-15 003823.png)
-
-
-![1](assets/photos/Skärmbild 2025-12-17 145659.png)
 
 
     ![](assets/photos/)
