@@ -22,15 +22,17 @@ Frida - förbättra skolmiljön
 
 Skotarkran - ett mekanikprojekt
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/3OfFaBL2seE"
-  title="YouTube video"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
+<div style="text-align: center; margin: 2rem 0;">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/3OffaBL2seE"
+    title="YouTube video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 <p align="center">
   <img src="assets/photos/ritning_rapport.jpg" alt="skotarkran" style="max-width:600px; width:50%;">
