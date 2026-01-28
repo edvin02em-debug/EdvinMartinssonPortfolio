@@ -7,26 +7,9 @@
 $header-edge: #000000;
 $header-center: #00000080;
 
-
-:root {
-  --bg-top: #000000;
-  --bg-center: #A9A9A9;
-  --bg-bottom: #000000;
-}
-
-/* =========================
-   PAGE BACKGROUND
-   ========================= */
-
-body {
-  background: linear-gradient(
-    to bottom,
-    var(--bg-top),
-    var(--bg-center),
-    var(--bg-bottom)
-  );
-  background-attachment: fixed;
-}
+/* Background gradient colors (top → bottom) */
+$bg-top: #A9A9A9;
+$bg-bottom: #000000;
 
 /* Header title colors */
 $header-title-color: #FFF8DC;
