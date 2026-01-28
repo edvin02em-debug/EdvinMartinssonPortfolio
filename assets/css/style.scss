@@ -8,6 +8,11 @@ $header-edge: #000000;
 $header-center: #00000080;
 
 /* Background gradient colors (top → bottom) */
+---
+---
+
+@import "{{ site.theme }}";
+
 :root {
   --bg-top: #0f172a;
   --bg-mid: #1e293b;
@@ -23,7 +28,8 @@ body {
   );
 }
 
-.page-content {
+.main-content,
+section.main-content {
   background: transparent;
 }
 
