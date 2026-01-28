@@ -3,32 +3,13 @@
 
 @import "{{ site.theme }}";
 
-/* ===== Background gradient: black → white → black ===== */
-
-:root {
-  --bg-dark: #000000;  /* top & bottom */
-  --bg-light: #ffffff; /* peak (middle) */
-}
-
-body {
-  background: linear-gradient(
-    to bottom,
-    var(--bg-dark) 0%,
-    var(--bg-light) 45%,  /* move this */
-    var(--bg-light) 55%,  /* and this */
-    var(--bg-dark) 100%
-  );
-}
-
-/* Make Cayman content transparent so gradient shows */
-.main-content,
-section.main-content {
-  background: transparent;
-}
-
 /* Header gradient colors (left → right) */
 $header-edge: #000000;
 $header-center: #00000080;
+
+/* Background gradient colors (top → bottom) */
+$bg-top: #A9A9A9;
+$bg-bottom: #000000;
 
 /* Header title colors */
 $header-title-color: #FFF8DC;
