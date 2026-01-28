@@ -8,8 +8,25 @@ $header-edge: #000000;
 $header-center: #00000080;
 
 /* Background gradient colors (top → bottom) */
-$bg-top: #A9A9A9;
-$bg-bottom: #000000;
+:root {
+  --bg-top: #0f172a;
+  --bg-mid: #1e293b;
+}
+
+body {
+  background: linear-gradient(
+    to bottom,
+    var(--bg-top) 0%,
+    var(--bg-mid) 45%,
+    var(--bg-mid) 55%,
+    var(--bg-top) 100%
+  );
+}
+
+.page-content {
+  background: transparent;
+}
+
 
 /* Header title colors */
 $header-title-color: #FFF8DC;
