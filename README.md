@@ -128,13 +128,14 @@ Bentley Municipal - a city car concept
 
 ### About me
 text
+linkedIn <link>
 ### Download CV
 file location
 ### Contact info
-#### Email
 edvin02.em@gmail.com
-#### Phone number
+
 +46-72-731-1846
-#### Adress
-431 31 Mölndal
+
 Broslättsgatan 37b
+
+431 31 Mölndal
