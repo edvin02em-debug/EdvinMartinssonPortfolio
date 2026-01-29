@@ -6,10 +6,10 @@ layout: default
 ## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
 ### CATIA
-Fiskelåda - CAD kurs
+Tackle box - CAD course
 
 
-Frida - förbättra skolmiljön
+Frida - Improving the school invironment by providing private spaces for students.
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
@@ -20,7 +20,7 @@ Frida - förbättra skolmiljön
 </div>
 
 
-Skotarkran - ett mekanikprojekt
+Skotarkran - A mechanics project
 
 <div style="display: flex; gap: 2rem; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2rem 0;">
 
@@ -52,7 +52,7 @@ Skotarkran - ett mekanikprojekt
 
 
 
-Vagn för färgbutik - ett ergonomiprojekt
+Wagon for transporting - ett ergonomiprojekt
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="">
@@ -141,6 +141,7 @@ Bentley Municipal - a city car concept
 
 ### About me
 text
+
 linkedIn link
 ### Download CV
 file location
