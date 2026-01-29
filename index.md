@@ -153,7 +153,10 @@ file location
 ### Contact info
 edvin02.em@gmail.com
 
+
 +46-72-731-1846
 
+
 Broslättsgatan 37b
+
 431 31 Mölndal
