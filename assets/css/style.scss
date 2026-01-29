@@ -115,3 +115,8 @@ a:hover {
   outline: 2px solid red;
 }
 
+.text-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
