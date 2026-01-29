@@ -53,6 +53,15 @@ Skotarkran - ett mekanikprojekt
 
 
 Vagn för färgbutik - ett ergonomiprojekt
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-12-17 145659.png" alt="">
+  </div>
+</div>
+
 <p align="center">
   <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="ergonomivagnen1" style="max-width:600px; width:50%;">
 </p>
