@@ -2,7 +2,14 @@
 ## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
 ### CATIA
-Fiskelåda - CAD kurs
+Food processor - CAD Course
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 231608.png" alt="">
+  </div>
+</div>
+
+Tackle box - CAD Course
 
 
 Frida - förbättra skolmiljön
