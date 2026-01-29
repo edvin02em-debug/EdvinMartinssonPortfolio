@@ -27,7 +27,7 @@ Skotarkran - ett mekanikprojekt
   <!-- Video -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <iframe
-      width="440"
+      width="400"
       height="280"
       src="https://www.youtube.com/embed/3OfFaBL2seE"
       title="YouTube video"
