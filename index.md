@@ -6,8 +6,34 @@ layout: default
 ## Computer Aided Design
 I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
 ### CATIA
-Tackle box - CAD course
+Food processor - CAD Course
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 231608.png" alt="">
+  </div>
+</div>
 
+Tackle box - CAD Course
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 232842.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 233027.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 233219.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 233449.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 233449.png" alt="">
+  </div>
+<div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2026-01-29 233749.png" alt="">
+  </div>
+</div>
 
 Frida - Improving the school invironment by providing private spaces for students.
 <div class="image-grid">
