@@ -27,7 +27,7 @@ Skotarkran - ett mekanikprojekt
   <!-- Video -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <iframe
-      width="400"
+      width="350"
       height="280"
       src="https://www.youtube.com/embed/3OfFaBL2seE"
       title="YouTube video"
@@ -98,25 +98,6 @@ Dammsugare
   </div>
 </div>
 
-<p align="center">
-  <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="husbil1" style="max-width:600px; width:50%;">
-</p>
-
-<p align="center">
-  <img src="assets/photos/att.F4Gd_sK2eYNHQhmM_ckzE_KoDN_GyqB4aE1gGag-TvA.jpeg" alt="husbil2" style="max-width:600px; width:50%;">
-</p>
-
-<p align="center">
-  <img src="assets/photos/att.aqGFWg5o3uMpG7AOZaNO3J8tbrJF2id04T686qc9T1E.jpeg" alt="husbil3" style="max-width:600px; width:50%;">
-</p>
-
-<p align="center">
-  <img src="assets/photos/att.u3H1d1rGUjPGBhjNjtqnSpF3Qh9wBqK_A9rWGSQHiu4.jpeg" alt="husbil4" style="max-width:600px; width:50%;">
-</p>
-
-<p align="center">
-  <img src="assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg" alt="husbil5" style="max-width:600px; width:50%;">
-</p>
 
 
 Elsystem
