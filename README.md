@@ -10,6 +10,23 @@ Food processor - CAD Course
 </div>
 
 Tackle box - CAD Course
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
+  </div>
+</div>
 
 
 Frida - förbättra skolmiljön
