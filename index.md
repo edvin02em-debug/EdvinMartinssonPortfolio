@@ -4,12 +4,21 @@ layout: default
 
 # Portfolio
 ## Computer Aided Design
-I have experience in both parametric and surface modeling CAD software. In the last two years I have mainly used CATIA and Alias. I also have experience in Solidworks and Fusion 360.
+I have experience in both parametric and surface modeling CAD software.
+In the last two years I have mainly used CATIA and Alias. 
+I also have experience in Solidworks and Fusion 360.
 ### CATIA
 Food processor - CAD Course
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2026-01-29 231608.png" alt="">
+  </div>
+
+  <div class="text-wrap">
+    <h3>Food Processor – CAD Course</h3>
+    <p>
+      An exercise focusing on learning basic commands in CATIA.
+    </p>
   </div>
 </div>
 
@@ -28,7 +37,7 @@ Tackle box - CAD Course
     <img src="assets/photos/Skärmbild 2026-01-29 233449.png" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/Skärmbild 2026-01-29 233449.png" alt="">
+    <img src="assets/photos/Skärmbild 2026-01-29 233341.png" alt="">
   </div>
 <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2026-01-29 233749.png" alt="">
