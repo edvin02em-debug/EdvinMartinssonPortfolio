@@ -95,7 +95,7 @@ Forwarder Crane - A mechanics project
   </div>
 
 </div>
-
+The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
 
 
 
@@ -189,9 +189,21 @@ Bentley Municipal - a city car concept
 ### About me
 text
 
-linkedIn link
-### Download CV
-file location
+<a
+  href="www.linkedin.com/in/edvin-martinsson-b371643a7"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    border: 2px solid #000;
+    text-decoration: none;
+    font-weight: 700;
+  "
+>
+  LinkedIn
+</a>
+
 ### Contact info
 edvin02.em@gmail.com
 
