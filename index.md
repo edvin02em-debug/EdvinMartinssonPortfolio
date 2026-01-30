@@ -100,7 +100,7 @@ Forwarder Crane - A mechanics project
 
 
 
-Wagon for transporting - ett ergonomiprojekt
+Wagon - An ergonomics project
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="">
@@ -113,24 +113,23 @@ Wagon for transporting - ett ergonomiprojekt
 
 
 ### Alias
-Parfymflaska
+Perfume bottle
 <p align="center">
   <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
 </p>
 
-Tåg
+Toy train
 <p align="center">
   <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
 </p>
 
-Dammsugare
+Hand-held vacuum cleaner
 <p align="center">
   <img src="assets/photos/dammsugare.jpg" alt="dammsugare" style="max-width:600px; width:50%;">
 </p>
 
-### Jack
 
-### Husbil
+### Camper van build.
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
