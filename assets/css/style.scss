@@ -133,19 +133,36 @@ a:hover {
   text-decoration: underline;
 }
 
-.two-grid{
-  display:grid;
-  grid-template-columns:repeat(2, 1fr);
-  gap:16px;
+/* =========================
+   Two image grid with headers
+   ========================= */
+
+.two-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
 }
 
-.two-grid img{
-  width:100%;
-  height:auto;
-  display:block;
-  border-radius:12px;
+.grid-item {
+  display: flex;
+  flex-direction: column;
 }
 
-@media (max-width: 700px){
-  .two-grid{ grid-template-columns:1fr; }
+.grid-item h3 {
+  margin: 0 0 8px 0;
+  text-align: center;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .two-grid {
+    grid-template-columns: 1fr;
+  }
 }
