@@ -171,3 +171,39 @@ a:hover {
 .spacer {
   height: 48px;
 }
+
+.big-left-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 24px;
+  align-items: stretch;
+}
+
+/* Left item spans both rows */
+.big-left-grid .tall {
+  grid-row: 1 / span 2;
+}
+
+/* Shared card layout */
+.big-left-grid .card {
+  display: flex;
+  flex-direction: column;
+}
+
+.big-left-grid .card h3 {
+  margin: 0 0 8px 0;
+  text-align: center; /* optional */
+}
+
+/* Mobile: stack */
+@media (max-width: 700px) {
+  .big-left-grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+
+  .big-left-grid .tall {
+    grid-row: auto;
+  }
+}
