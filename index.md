@@ -23,8 +23,7 @@ I also have experience in Solidworks and Fusion 360.
   </div>
 </div>
 
-###Tackle box - CAD Course
-
+### Tackle box - CAD Course
 The aim of this project was to build a box of your choosing with at least one cantilever shelf.
 Another aspect of this project was to get familiar with standardized parts and to include them in
 the build when applicable.
