@@ -137,7 +137,7 @@ Hand-held vacuum cleaner
 </p>
 ### Seatpost - Materials Science
 <p align="center">
-  <img src="assets/photos/bentlay.jpg" alt="" style="max-width:600px; width:50%;">
+  <img src="assets/photos/materialteknik_poster.jpg" alt="" style="max-width:600px; width:50%;">
 </p>
   
 
