@@ -186,21 +186,13 @@ Bentley Municipal - a city car concept
 
 ### About me
 text
-
-<a
-  href="www.linkedin.com/in/edvin-martinsson-b371643a7"
-  target="_blank"
-  rel="noopener noreferrer"
-  style="
-    display: inline-block;
-    padding: 0.6rem 1.2rem;
-    border: 2px solid #000;
-    text-decoration: none;
-    font-weight: 700;
-  "
->
+<a class="linkedin-btn"
+   href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
+   target="_blank"
+   rel="noopener noreferrer">
   LinkedIn
 </a>
+
 
 ### Contact info
 edvin02.em@gmail.com
