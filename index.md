@@ -113,13 +113,17 @@ Wagon - An ergonomics project
 
 ## Alias
 <div class="two-grid">
-   <div class="text-wrap">
-    <h3>Toy train</h3>
-    <p>
+  <div class="grid-item">
+    <h3>Train</h3>
+    <img src="assets/photos/train.jpg" alt="">
+  </div>
+
+  <div class="grid-item">
     <h3>Hand-held vacuum cleaner</h3>
-    </p>
+    <img src="assets/photos/dammsugare.jpg" alt="">
   </div>
 </div>
+
 
 <div class="two-grid">
   <img src="assets/photos/train.jpg" alt="">
@@ -151,7 +155,7 @@ Hand-held vacuum cleaner
 </p>
 
 ## Photoshop & Illustrator
-### Camera - 
+### BojCam - 
 <p align="center">
   <img src="assets/photos/Posters_kamera_1.jpg" alt="" style="max-width:600px; width:100%;">
 </p>
