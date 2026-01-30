@@ -63,7 +63,6 @@ and iterating each concept numerous times.
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
   </div>
-</div>
 
 
 Forwarder Crane - A mechanics project
@@ -121,14 +120,14 @@ Wagon - An ergonomics project
 </div>
 
 <div class="two-grid">
-  <img src="assets/img/train.jpg" alt="">
-  <img src="assets/img/dammsugare.jpg" alt="">
+  <img src="assets/photos/train.jpg" alt="">
+  <img src="assets/photos/dammsugare.jpg" alt="">
 </div>
 
 
 ### Perfume bottle
 <div class="two-grid">
-  <img src="assets/img/parfymflaska.jpg" alt="">
+  <img src="assets/photos/parfymflaska.jpg" alt="">
   <div class="text-wrap">
     "blablabla"
   </div>
