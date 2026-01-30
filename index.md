@@ -110,7 +110,7 @@ Wagon - An ergonomics project
 
 
 
-### Alias
+## Alias
 Perfume bottle
 <p align="center">
   <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
@@ -127,7 +127,7 @@ Hand-held vacuum cleaner
 </p>
 
 
-### Camper van build.
+## Camper van build.
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
@@ -163,7 +163,7 @@ Posters
 
   
 
-### Sketching
+## Sketching
 Bentley Municipal - a city car concept
 <p align="center">
   <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
@@ -184,8 +184,7 @@ Bentley Municipal - a city car concept
 
 
 
-### About me
-text
+
 <a class="linkedin-btn"
    href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
    target="_blank"
@@ -194,11 +193,10 @@ text
 </a>
 
 
-### Contact info
 edvin02.em@gmail.com
 
 
-+46-72-731-1846
++46 72 731 1846
 
 
 Broslättsgatan 37b
