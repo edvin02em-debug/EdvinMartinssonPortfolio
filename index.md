@@ -129,7 +129,13 @@ Hand-held vacuum cleaner
 ## Photoshop & Illustrator
 ### Camera - 
 <p align="center">
-  <img src="assets/photos/bentlay.jpg" alt="" style="max-width:600px; width:50%;">
+  <img src="assets/photos/Posters_kamera_1.jpg" alt="" style="max-width:600px; width:50%;">
+</p>
+<p align="center">
+  <img src="assets/photos/Posters_kamera_2.jpg" alt="" style="max-width:600px; width:50%;">
+</p>
+<p align="center">
+  <img src="assets/photos/Posters_kamera_3.jpg" alt="" style="max-width:600px; width:50%;">
 </p>
 ### Nanocellulose-based bioplastic - 
 <p align="center">
