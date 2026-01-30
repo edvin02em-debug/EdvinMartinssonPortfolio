@@ -54,7 +54,7 @@ the build when applicable.
     <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
   </div>
   <div class="text-wrap">
-    <h3>Frida - Improving the school invironment by providing private spaces for students.</h3>
+    <h3>Frida - Design Methology</h3>
     <p>
       The resulting product of a designing methodology group project. The group was tasked with developing a product
       aimed to improve the school environment. The basis of the project came from trend analysis and student 
