@@ -8,6 +8,7 @@ I have experience in both parametric and surface modeling CAD software.
 In the last two years I have mainly used CATIA and Alias. 
 I also have experience in Solidworks and Fusion 360.
 
+<div class="spacer"></div>
 
 <div class="image-grid">
   <div class="img-wrap">
@@ -22,6 +23,8 @@ I also have experience in Solidworks and Fusion 360.
     </p>
   </div>
 </div>
+
+<div class="spacer"></div>
 
 ### Tackle box - CAD Course
 The aim of this project was to build a box of your choosing with at least one cantilever shelf.
@@ -48,6 +51,7 @@ the build when applicable.
   </div>
 </div>
 
+<div class="spacer"></div>
 
 ### Frida - Design Methodology
 The resulting product of a designing methodology group project. The group was tasked with developing a product
@@ -65,12 +69,10 @@ and iterating each concept numerous times.
   </div>
 </div>
 
+<div class="spacer"></div>
 
-
-Forwarder Crane - A mechanics project
-
+### Forwarder Crane - A mechanics project
 <div style="display: flex; gap: 2rem; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2rem 0;">
-
   <!-- Video -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <iframe
@@ -83,7 +85,6 @@ Forwarder Crane - A mechanics project
       allowfullscreen>
     </iframe>
   </div>
-
   <!-- Image -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img
@@ -92,14 +93,12 @@ Forwarder Crane - A mechanics project
       style="max-width: 600px; width: 90%;"
     >
   </div>
-
 </div>
 The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
 
+<div class="spacer"></div>
 
-
-
-Wagon - An ergonomics project
+### Wagon - An ergonomics project
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="">
@@ -109,7 +108,7 @@ Wagon - An ergonomics project
   </div>
 </div>
 
-
+<div class="spacer"></div>
 
 ## Alias
 <div class="two-grid">
@@ -117,42 +116,18 @@ Wagon - An ergonomics project
     <h3>Train</h3>
     <img src="assets/photos/train.jpg" alt="">
   </div>
-
   <div class="grid-item">
     <h3>Hand-held vacuum cleaner</h3>
     <img src="assets/photos/dammsugare.jpg" alt="">
   </div>
-</div>
-
-
-<div class="two-grid">
-  <img src="assets/photos/train.jpg" alt="">
-  <img src="assets/photos/dammsugare.jpg" alt="">
-</div>
-
-
-### Perfume bottle
-<div class="two-grid">
-  <img src="assets/photos/parfymflaska.jpg" alt="">
-  <div class="text-wrap">
-    "blablabla"
+    <div class="grid-item">
+    <h3>Perfume bottle</h3>
+    <img src="assets/photos/parfymflaska.jpg" alt="">
   </div>
+  <p>A These where made as part of a course to showcase proficiency in Alias.</p>
 </div>
 
-
-<p align="center">
-  <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
-</p>
-
-Toy train
-<p align="center">
-  <img src="assets/photos/train.jpg" alt="train" style="max-width:600px; width:50%;">
-</p>
-
-Hand-held vacuum cleaner
-<p align="center">
-  <img src="assets/photos/dammsugare.jpg" alt="dammsugare" style="max-width:600px; width:50%;">
-</p>
+<div class="spacer"></div>
 
 ## Photoshop & Illustrator
 ### BojCam - 
@@ -174,12 +149,15 @@ Hand-held vacuum cleaner
   <img src="assets/photos/materialteknik_poster.jpg" alt="" style="max-width:600px; width:100%;">
 </p>
   
+<div class="spacer"></div>
 
 ## Sketching
 Bentley Municipal - a city car concept
 <p align="center">
   <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
 </p>
+
+<div class="spacer"></div>
 
 # DIY projects and ideas
 ## Camper van build
@@ -210,6 +188,8 @@ Bentley Municipal - a city car concept
   </div>
   <img src="assets/photos/IMG_1858.png" alt="">
 </div>
+
+<div class="spacer"></div>
 
 ## BenchTable
 A dual purpose picnic table/bench for smaller patios. A practical table that can be transformed and
