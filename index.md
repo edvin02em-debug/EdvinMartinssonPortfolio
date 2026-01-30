@@ -126,8 +126,8 @@ Hand-held vacuum cleaner
   <img src="assets/photos/dammsugare.jpg" alt="dammsugare" style="max-width:600px; width:50%;">
 </p>
 
-
-## Camper van build.
+# DIY projects and ideas
+## Camper van build
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
@@ -146,12 +146,23 @@ Hand-held vacuum cleaner
   </div>
 </div>
 
+### Simple wiring diagram
+<div class="image-grid">
+  <div class="text-wrap">
+    <h3>Simple wiring diagram</h3>
+    <p>
+     This is not a technically accurate drawing but rather a sketch of the vehicles aftermarket electrical components.
+    </p>
+  </div>
+  <img src="assets/photos/IMG_1858.png" alt="">
+</div>
+
+## BenchTable
+A dual purpose picnic table/bench for smaller patios. A practical table that can be transformed and
+concealed as a bench when the table part is not needed.
 
 
-Elsystem
-<p align="center">
-  <img src="assets/photos/IMG_1858.png" alt="elsystem" style="max-width:600px; width:50%;">
-</p>
+
 
 ### Photoshop & Illustrator
 Posters
