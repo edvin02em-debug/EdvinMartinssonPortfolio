@@ -126,6 +126,27 @@ Hand-held vacuum cleaner
   <img src="assets/photos/dammsugare.jpg" alt="dammsugare" style="max-width:600px; width:50%;">
 </p>
 
+## Photoshop & Illustrator
+### Camera - 
+<p align="center">
+  <img src="assets/photos/bentlay.jpg" alt="" style="max-width:600px; width:50%;">
+</p>
+### Nanocellulose-based bioplastic - 
+<p align="center">
+  <img src="assets/photos/poster klar 100x70.jpg" alt="" style="max-width:600px; width:50%;">
+</p>
+### Seatpost - Materials Science
+<p align="center">
+  <img src="assets/photos/bentlay.jpg" alt="" style="max-width:600px; width:50%;">
+</p>
+  
+
+## Sketching
+Bentley Municipal - a city car concept
+<p align="center">
+  <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
+</p>
+
 # DIY projects and ideas
 ## Camper van build
 <div class="image-grid">
@@ -146,7 +167,6 @@ Hand-held vacuum cleaner
   </div>
 </div>
 
-### Simple wiring diagram
 <div class="image-grid">
   <div class="text-wrap">
     <h3>Simple wiring diagram</h3>
@@ -164,24 +184,9 @@ concealed as a bench when the table part is not needed.
 
 
 
-### Photoshop & Illustrator
-Posters
-  Bioplastik från nanocellulosa
-
-  Kamera
-
-  Sadelstolpe - Materialteknik
-
-  
-
-## Sketching
-Bentley Municipal - a city car concept
-<p align="center">
-  <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
-</p>
 
 
-### övriga 
+
 
 
 
