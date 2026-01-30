@@ -111,6 +111,33 @@ The purpose of this project was to build a rough model of a forwarder crane and 
 <div class="spacer"></div>
 
 ## Alias
+<p align="center">
+  <h3>Train</h3>
+</p>
+<p align="center">
+  <img src="assets/photos/train.jpg" alt="" style="max-width:600px; width:100%;">
+</p>
+<div class="big-left-grid">
+  <!-- Left tall -->
+  <div class="card tall">
+    <h3>Perfume bottle</h3>
+    <img src="assets/photos/parfymflaska.jpg" alt="">
+  </div>
+
+  <!-- Top right -->
+  <div class="card">
+    <h3>Train</h3>
+    <img src="assets/photos/dammsugare.jpg" alt="">
+  </div>
+
+  <!-- Bottom right -->
+  <div class="card">
+    <p>A These where made as part of a course to showcase proficiency in Alias.…</p>
+  </div>
+</div>
+
+<div class="spacer"></div>
+
 <div class="two-grid">
   <div class="grid-item">
     <h3>Train</h3>
