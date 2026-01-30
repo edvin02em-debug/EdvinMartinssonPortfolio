@@ -132,3 +132,20 @@ a:hover {
 .linkedin-btn:hover {
   text-decoration: underline;
 }
+
+.two-grid{
+  display:grid;
+  grid-template-columns:repeat(2, 1fr);
+  gap:16px;
+}
+
+.two-grid img{
+  width:100%;
+  height:auto;
+  display:block;
+  border-radius:12px;
+}
+
+@media (max-width: 700px){
+  .two-grid{ grid-template-columns:1fr; }
+}
