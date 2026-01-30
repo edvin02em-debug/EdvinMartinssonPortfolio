@@ -48,10 +48,19 @@ the build when applicable.
   </div>
 </div>
 
-Frida - Improving the school invironment by providing private spaces for students.
+
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
+  </div>
+  <div class="text-wrap">
+    <h3>Frida - Improving the school invironment by providing private spaces for students.</h3>
+    <p>
+      The resulting product of a designing methodology group project. The group was tasked with developing a product
+      aimed to improve the school environment. The basis of the project came from trend analysis and student 
+      surveys and interviews. Throughout this project there was a strong emphasis on utilizing ideation methods
+      and iterating each concept numerous times.
+    </p>
   </div>
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
@@ -59,7 +68,7 @@ Frida - Improving the school invironment by providing private spaces for student
 </div>
 
 
-Skotarkran - A mechanics project
+Forwarder Crane - A mechanics project
 
 <div style="display: flex; gap: 2rem; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2rem 0;">
 
