@@ -111,7 +111,30 @@ Wagon - An ergonomics project
 
 
 ## Alias
-Perfume bottle
+<div class="two-grid">
+   <div class="text-wrap">
+    <h3>Toy train</h3>
+    <p>
+    <h3>Hand-held vacuum cleaner</h3>
+    </p>
+  </div>
+</div>
+
+<div class="two-grid">
+  <img src="assets/img/train.jpg" alt="">
+  <img src="assets/img/dammsugare.jpg" alt="">
+</div>
+
+
+### Perfume bottle
+<div class="two-grid">
+  <img src="assets/img/parfymflaska.jpg" alt="">
+  <div class="text-wrap">
+    "blablabla"
+  </div>
+</div>
+
+
 <p align="center">
   <img src="assets/photos/parfymflaska.jpg" alt="parfymflaska" style="max-width:600px; width:35%;">
 </p>
