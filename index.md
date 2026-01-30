@@ -49,18 +49,16 @@ the build when applicable.
 </div>
 
 
+### Frida - Design Methodology
+The resulting product of a designing methodology group project. The group was tasked with developing a product
+aimed to improve the school environment. The basis of the project came from trend analysis and student 
+surveys and interviews. Throughout this project there was a strong emphasis on utilizing ideation methods
+and iterating each concept numerous times.
+
+  </div>
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-23 112200.png" alt="">
-  </div>
-  <div class="text-wrap">
-    <h3>Frida - Design Methology</h3>
-    <p>
-      The resulting product of a designing methodology group project. The group was tasked with developing a product
-      aimed to improve the school environment. The basis of the project came from trend analysis and student 
-      surveys and interviews. Throughout this project there was a strong emphasis on utilizing ideation methods
-      and iterating each concept numerous times.
-    </p>
   </div>
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2025-05-26 013518.png" alt="">
