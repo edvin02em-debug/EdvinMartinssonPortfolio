@@ -17,12 +17,16 @@ I also have experience in Solidworks and Fusion 360.
   <div class="text-wrap">
     <h3>Food Processor – CAD Course</h3>
     <p>
-      An exercise focusing on learning basic commands in CATIA.
+      An exercise focusing on learning basic commands in CATIA and choosing the optimal path 
+      to create parts. The parts of the food processor where created by reading technical drawings.
     </p>
   </div>
 </div>
 
-Tackle box - CAD Course
+###Tackle box - CAD Course
+The aim of this project was to build a box of your choosing with at least one cantilever shelf.
+Another aspect of this project was to get familiar with standardized parts and to include them in
+the build when applicable.
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/Skärmbild 2026-01-29 232842.png" alt="">
