@@ -111,9 +111,7 @@ The purpose of this project was to build a rough model of a forwarder crane and 
 <div class="spacer"></div>
 
 ## Alias
-<p align="center">
-  <h3>Train</h3>
-</p>
+<h3 style="text-align: center;">Train</h3>
 <div class="img-wrap">
     <img src="assets/photos/train.jpg" alt="">
   </div>
