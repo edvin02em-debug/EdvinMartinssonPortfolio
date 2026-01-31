@@ -115,8 +115,12 @@ The purpose of this project was to build a rough model of a forwarder crane and 
   <h3>Train</h3>
 </p>
 <p align="center">
-  <img src="assets/photos/train.jpg" alt="" style="max-width:600px; width:100%;">
+  <div class="img-wrap">
+    <img src="assets/photos/train.jpg" alt="">
+  </div>
 </p>
+
+
 <div class="big-left-grid">
   <!-- Left tall -->
   <div class="card tall">
