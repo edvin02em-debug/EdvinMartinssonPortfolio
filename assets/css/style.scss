@@ -214,22 +214,3 @@ a:hover {
   width: 100%;
   height: auto;
 }
-
-/* Zoomable images */
-.main-content img {
-  border-radius: 16px;
-  transition: transform 0.25s ease;
-  transform-origin: center center;
-}
-
-/* Desktop hover */
-.main-content img:hover {
-  transform: scale(1.05);
-}
-
-/* Touch devices (tap + hold feeling) */
-@media (hover: none) {
-  .main-content img:active {
-    transform: scale(1.05);
-  }
-}
