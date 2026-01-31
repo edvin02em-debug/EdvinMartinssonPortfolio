@@ -207,3 +207,8 @@ a:hover {
     grid-row: auto;
   }
 }
+
+.big-left-grid .card {
+  border-radius: 16px;
+  overflow: hidden; /* IMPORTANT */
+}
