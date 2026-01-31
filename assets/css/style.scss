@@ -92,14 +92,11 @@ a:hover {
   gap: 1rem;
 }
 
-.img-wrap img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  object-fit: cover;
-  border-radius: 12px;
-  display: block;
-}
+.img-wrap {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   /* optional but recommended so the red outline / corners match the tile */
   overflow: hidden;
