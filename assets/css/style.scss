@@ -93,10 +93,15 @@ a:hover {
 }
 
 .img-wrap {
-  height: 300px;
+  aspect-ratio: 4 / 3;   /* ← choose the shape you want */
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
 
   /* optional but recommended so the red outline / corners match the tile */
   overflow: hidden;
