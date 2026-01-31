@@ -162,7 +162,14 @@ The purpose of this project was to build a rough model of a forwarder crane and 
 <div class="spacer"></div>
 
 ## Sketching
-Bentley Municipal - a city car concept
+### Bentley Municipal - a city car concept
+Disclaimer: This project is in no way affiliated with Bentley Motors.
+
+In this challenging but highly rewarding individual project I was tasked with designing the exterior of a new compact and electric city car.
+My assigned car company was Bentley and the intended target audience was individuals under the age of 30.
+
+
+a city car 
 <p align="center">
   <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
 </p>
