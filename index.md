@@ -116,6 +116,7 @@ The purpose of this project was to build a rough model of a forwarder crane and 
     <img src="assets/photos/train.jpg" alt="">
   </div>
 
+<div class="spacer-short"></div>
 
 <div class="big-left-grid">
   <!-- Left tall -->
@@ -221,22 +222,6 @@ Bentley Municipal - a city car concept
 ## BenchTable
 A dual purpose picnic table/bench for smaller patios. A practical table that can be transformed and
 concealed as a bench when the table part is not needed.
-
-
-
-
-
-
-
-
-
-
-    ![](assets/photos/)
-
-
-
-
-
 
 
 
