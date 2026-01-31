@@ -139,24 +139,6 @@ The purpose of this project was to build a rough model of a forwarder crane and 
 
 <div class="spacer"></div>
 
-<div class="two-grid">
-  <div class="grid-item">
-    <h3>Train</h3>
-    <img src="assets/photos/train.jpg" alt="">
-  </div>
-  <div class="grid-item">
-    <h3>Hand-held vacuum cleaner</h3>
-    <img src="assets/photos/dammsugare.jpg" alt="">
-  </div>
-    <div class="grid-item">
-    <h3>Perfume bottle</h3>
-    <img src="assets/photos/parfymflaska.jpg" alt="">
-  </div>
-  <p>A These where made as part of a course to showcase proficiency in Alias.</p>
-</div>
-
-<div class="spacer"></div>
-
 ## Photoshop & Illustrator
 ### BojCam - 
 <p align="center">
