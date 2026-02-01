@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This webpage is not yet fully finished. I hope to be completely done by february 5th.
+This webpage is not yet fully finished. I hope to be done by february 5th.
 
 
 # Edvin Martinsson
@@ -231,7 +231,15 @@ A dual purpose picnic table/bench for smaller patios. A practical table that can
 concealed as a bench when the table part is not needed.
 
 
+<div class="spacer"></div>
 
+
+## 3D-Printning
+My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning
+
+
+
+## Rod dryer
 
 
 <a class="linkedin-btn"
