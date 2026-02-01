@@ -1,12 +1,30 @@
 ---
 layout: default
 ---
+This webpage is not yet fully finished. I hope to be completely done by february 5th.
 
-# Portfolio
-## Computer Aided Design
+
+# Edvin Martinsson
+I am a 24 year old man from Värnamo. 
+Me and my partner moved to Mölndal together in 2022 in order to study.
+Now I am a 2nd-year product design student at Chalmers University of Technology.
+vad ska jag skriva
+
+I hope that the contents of this page will be of interest to you.
+
+<div class="spacer"></div>
+
+# Computer Aided Design
 I have experience in both parametric and surface modeling CAD software.
-In the last two years I have mainly used CATIA and Alias. 
-I also have experience in Solidworks and Fusion 360.
+I first learned CAD in upper secondary school where I used Solidworks for three years.
+Unfortunately all these files were lost due to a computer failure.
+This was a good learning experience as I am a lot better at file management now.
+At chalmers I have learned CATIA in which I am really comfortable with now.
+I am also getting better at Alias that is a quite different software than what I am used to.
+My curriculum promises further training in Alias.
+I have tried out Fusion 360 out of pure curiosity. This is probably the software
+I would use if I would not have access to any student licenses.
+
 
 <div class="spacer"></div>
 
