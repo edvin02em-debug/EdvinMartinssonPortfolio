@@ -74,8 +74,8 @@ the build when applicable.
 ### Frida - Design Methodology
 The resulting product of a designing methodology group project. The group was tasked with developing a product
 aimed to improve the school environment. The basis of the project came from trend analysis and student 
-surveys and interviews. Throughout this project there was a strong emphasis on utilizing ideation methods
-and iterating each concept numerous times.
+surveys and interviews. Throughout this project there was a strong emphasis on utilizing different ideation methods
+and iterating each concept several times. 
 
 
 <div class="image-grid">
@@ -113,6 +113,7 @@ and iterating each concept numerous times.
   </div>
 </div>
 The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
+Then we ran static equilibrium calculations on the crane to ensure that it could lift the specified load of.!!!kg.
 
 <div class="spacer"></div>
 
