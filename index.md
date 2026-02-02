@@ -8,9 +8,10 @@ This webpage is not yet fully finished. I hope to be done by february 5th.
 I am a 24 year old man from Värnamo. 
 Me and my partner moved to Mölndal together in 2022 in order to study.
 Now I am a 2nd-year product design student at Chalmers University of Technology.
-vad ska jag skriva
-
-I hope that the contents of this page will be of interest to you.
+I have a strong interest in product design and the product development process.
+I enjoy solving practical design challenges through my coursework and in my spare time.
+Now I am looking to extend this interest to a practical real-world proffesional setting.
+Thank you for visiting my webpage hope that the contents will be of interest to you.
 
 <div class="spacer"></div>
 
@@ -146,7 +147,7 @@ Then we ran static equilibrium calculations on the crane to ensure that it could
 
   <!-- Top right -->
   <div class="card">
-    <h3>Train</h3>
+    <h3>Hand-held vacuum cleaner</h3>
     <img src="assets/photos/dammsugare.jpg" alt="">
   </div>
 
