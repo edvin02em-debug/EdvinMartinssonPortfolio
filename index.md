@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<title>{{ site.title }} | {{ site.author_name }}</title>
 
 This webpage is not yet fully finished. I hope to be done by february 5th.
 
