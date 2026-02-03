@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Portfolio | Edvin Martinsson
 ---
+
 
 This webpage is not yet fully finished. I hope to be done by february 5th.
 
