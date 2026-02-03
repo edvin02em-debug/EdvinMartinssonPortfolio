@@ -267,10 +267,7 @@ My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It require
   LinkedIn
 </a>
 
-<a class="linkedin-btn"
-   href=""
-   target="_blank"
-   rel="noopener noreferrer">
+<a class="linkedin-btn">
   edvin02.em@gmail.com
 </a>
 
