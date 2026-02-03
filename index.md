@@ -123,13 +123,23 @@ Then we ran static equilibrium calculations on the crane to ensure that it could
 
 <div class="spacer"></div>
 
-### Wagon - An ergonomics project
+### Push-cart - An ergonomics project
+In this group project we were tasked with identifying an ergonoomics problem and then solving it.
+Through a field study at Colorama Stenkullen we identified a problem they had which was postural strain while doing heavy lifting.
+We set out to solve this problem through further developing their existing push-cart.
+By executing several 
+Our design reduces strain produced by the cart and when lifting heavy.
+It allows the user to higher and lower the shelf of the cart to an optimal lifting height reducing strain on the lower back, arms, legs and wrists.
+
 <div class="image-grid">
   <div class="img-wrap">
-    <img src="assets/photos/Skärmbild 2025-12-15 003823.png" alt="">
+    <img src="assets/photos/Colorama_vagn.jpg" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/Skärmbild 2025-12-17 145659.png" alt="">
+    <img src="assets/photos/push_cart.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/pc_interface.jpg" alt="">
   </div>
 </div>
 
