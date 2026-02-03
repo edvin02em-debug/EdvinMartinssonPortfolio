@@ -127,9 +127,10 @@ Then we ran static equilibrium calculations on the crane to ensure that it could
 In this group project we were tasked with identifying an ergonoomics problem and then solving it.
 Through a field study at Colorama Stenkullen we identified a problem they had which was postural strain while doing heavy lifting.
 We set out to solve this problem through further developing their existing push-cart.
-By executing several 
-Our design reduces strain produced by the cart and when lifting heavy.
-It allows the user to higher and lower the shelf of the cart to an optimal lifting height reducing strain on the lower back, arms, legs and wrists.
+By executing several strain analyses we could identify what needed improvement.
+The first image is the existing push-cart and the two following is our design.
+Our design reduces strain produced by the cart and when lifting heavy provided that the user applies proper lifting techniques.
+It allows the user to higher and lower the handle and shelf of the cart to an optimal pushing and lifting height reducing strain on the lower back, arms, legs and wrists.
 
 <div class="image-grid">
   <div class="img-wrap">
@@ -264,6 +265,13 @@ My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It require
    target="_blank"
    rel="noopener noreferrer">
   LinkedIn
+</a>
+
+<a class="linkedin-btn"
+   href=""
+   target="_blank"
+   rel="noopener noreferrer">
+  edvin02.em@gmail.com
 </a>
 
 
