@@ -169,14 +169,14 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 
   <!-- Bottom right -->
   <div class="card">
-    <p>A These where made as part of a course to showcase proficiency in Alias.…</p>
+    <p>A These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
   </div>
 </div>
 
 <div class="spacer"></div>
 
 ## Photoshop & Illustrator
-### BojCam - 
+### BojCam - Design and Communication
 <p align="center">
   <img src="assets/photos/Posters_kamera_1.jpg" alt="" style="max-width:600px; width:100%;">
 </p>
@@ -186,7 +186,7 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 <p align="center">
   <img src="assets/photos/Posters_kamera_3.jpg" alt="" style="max-width:600px; width:100%;">
 </p>
-### Nanocellulose-based bioplastic - 
+### Nanocellulose-based bioplastic - Design and Communication
 <p align="center">
   <img src="assets/photos/poster klar 100x70.jpg" alt="" style="max-width:600px; width:100%;">
 </p>
@@ -203,9 +203,31 @@ Disclaimer: This project is in no way affiliated with Bentley Motors.
 
 In this challenging but highly rewarding individual project I was tasked with designing the exterior of a new compact and electric city car.
 My assigned car company was Bentley and the intended target audience was individuals under the age of 30.
+I identified a few of Bentleys key design elements and then designed the car with these in mind.
+The outcome was a 2-seater electric liftback that balances luxury and practicality.
+
+<div class="two-grid">
+  <div class="grid-item">
+    <img src="assets/photos/endless_bonnet.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/iconi_grille.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/prestigious_shield.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/resting_beast.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/upright_elegance.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/bentlay.jpg" alt="">
+  </div>
+</div>
 
 
-a city car 
 <p align="center">
   <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
 </p>
@@ -253,12 +275,12 @@ concealed as a bench when the table part is not needed.
 
 
 ## 3D-Printning
-My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning
-
+    My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning
+Coming soon...
 
 
 ## Rod dryer
-
+Coming soon...
 
 <a class="linkedin-btn"
    href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
