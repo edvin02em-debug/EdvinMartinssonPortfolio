@@ -28,7 +28,6 @@ My curriculum promises further training in Alias.
 I have tried out Fusion 360 out of pure curiosity. This is probably the software
 I would use if I would not have access to any student licenses.
 
-
 <div class="spacer"></div>
 
 <div class="image-grid">
@@ -115,8 +114,12 @@ and iterating each concept several times.
     >
   </div>
 </div>
+<div class="img-wrap">
+    <img src="assets/photos/skotarkran_frilaggning.jpg" alt="">
+  </div>
+
 The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
-Then we ran static equilibrium calculations on the crane to ensure that it could lift the specified load of.!!!kg.
+Then we ran static equilibrium calculations on the crane to ensure that it could lift the specified load of 250 kg.
 
 <div class="spacer"></div>
 
