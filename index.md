@@ -297,7 +297,7 @@ concealed as a bench when the table part is not needed.
 <div class="spacer"></div>
 
 ## Fume extractor
-This is the concept of an affordable fume extractor.
+This is the concept of an affordable fume extractor visualized in Autodesk Fusion.
 Fumes are extracted with a fan attached to the exhaust tube in the back.
 Users can switch between extracting fumes with the grate or the flexible tube.
 The tube is for when the gas is concentrated and origins from a small area.
@@ -312,11 +312,14 @@ For example washing mechanical parts with harsh chemicals or smaller paint jobs.
     <img src="assets/photos/fe_assembly2_1.jpg" alt="">
   </div>
 
+<div class="spacer"></div>
+
 ## 3D-Printning
 Coming soon...
 
 <!-- My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning -->
 
+<div class="spacer"></div>
 
 
 ## Rod dryer
