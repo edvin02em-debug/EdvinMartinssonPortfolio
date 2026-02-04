@@ -92,6 +92,8 @@ and iterating each concept several times.
 <div class="spacer"></div>
 
 ### Forwarder Crane - A mechanics project
+The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
+Then we ran static equilibrium calculations on the crane to ensure that it could lift the specified load of 250 kg.
 <div style="display: flex; gap: 2rem; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2rem 0;">
   <!-- Video -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
@@ -117,9 +119,6 @@ and iterating each concept several times.
 <div class="img-wrap">
     <img src="assets/photos/skotarkran_frilaggning.jpg" alt="">
   </div>
-
-The purpose of this project was to build a rough model of a forwarder crane and showcase its functions in CATIA.
-Then we ran static equilibrium calculations on the crane to ensure that it could lift the specified load of 250 kg.
 
 <div class="spacer"></div>
 
