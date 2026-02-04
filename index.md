@@ -214,13 +214,13 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
     <img src="assets/photos/iconi_grille.jpg" alt="">
   </div>
   <div class="grid-item">
-    <img src="assets/photos/prestigious_shield.jpg" alt="">
-  </div>
-  <div class="grid-item">
     <img src="assets/photos/resting_beast.jpg" alt="">
   </div>
   <div class="grid-item">
     <img src="assets/photos/upright_elegance.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/prestigious_shield.jpg" alt="">
   </div>
   <div class="grid-item">
     <img src="assets/photos/bentlay.jpg" alt="">
@@ -287,10 +287,6 @@ Coming soon...
    target="_blank"
    rel="noopener noreferrer">
   LinkedIn
-</a>
-
-<a class="linkedin-btn">
-  edvin02.em@gmail.com
 </a>
 
 
