@@ -269,11 +269,12 @@ concealed as a bench when the table part is not needed.
 
 <div class="two-grid">
   <div class="grid-item">
-    <img src="assets/photos/Skärmbild 2026-01-29 233749.png" alt="">
+    <img src="assets/photos/Skärmbild 2026-02-04 010538.png" alt="">
   </div>
   <div class="grid-item">
     <img src="assets/photos/Skärmbild 2026-02-04 010727.png" alt="">
   </div>
+</div>
 
 <div class="spacer"></div>
 
