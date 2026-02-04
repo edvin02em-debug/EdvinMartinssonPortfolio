@@ -224,15 +224,21 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
   <div class="grid-item">
     <img src="assets/photos/bentlay.jpg" alt="">
   </div>
-<!--
-Lerbilsbilder!!
   <div class="grid-item">
-    <img src="assets/photos/" alt="">
+    <img src="assets/photos/IMG_1578.jpeg" alt="">
   </div>
   <div class="grid-item">
-    <img src="assets/photos/" alt="">
+    <img src="assets/photos/IMG_1583.jpeg" alt="">
   </div>
--->
+  <div class="grid-item">
+    <img src="assets/photos/IMG_1590.jpeg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/IMG_1602.jpeg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/IMG_1602.jpeg" alt="">
+  </div>
 </div>
 
 <div class="spacer"></div>
