@@ -7,9 +7,10 @@ This webpage is not yet fully finished. I hope to be done by february 5th.
 
 
 # Edvin Martinsson
-I am a 24 year old man from Värnamo. 
-Me and my partner moved to Mölndal together in 2022 in order to study.
-Now I am a 2nd-year product design student at Chalmers University of Technology.
+I am a 24-year-old product design student originally from Värnamo. 
+In 2022, my partner and I moved to Mölndal to pursue our studies.
+I am currently in my second year of the Product Design programme at Chalmers University of Technology.
+
 I have a strong interest in product design and the product development process.
 I enjoy solving practical design challenges through my coursework and in my spare time.
 Now I am looking to extend this interest to a practical real-world proffesional setting.
@@ -168,7 +169,7 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 
   <!-- Bottom right -->
   <div class="card">
-    <p>A These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
+    <p>These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
   </div>
 </div>
 
