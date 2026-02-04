@@ -254,6 +254,8 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
   </div>
 </div>
 
+<div class="spacer-short"></div>
+
 <div class="image-grid">
   <div class="text-wrap">
     <h3>Simple wiring diagram</h3>
@@ -281,6 +283,12 @@ Coming soon...
 
 ## Rod dryer
 Coming soon...
+
+
+<div class="spacer"></div>
+
+<div class="spacer"></div>
+
 
 <a class="linkedin-btn"
    href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
