@@ -227,11 +227,6 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
   </div>
 </div>
 
-
-<p align="center">
-  <img src="assets/photos/bentlay.jpg" alt="bentley1" style="max-width:600px; width:50%;">
-</p>
-
 <div class="spacer"></div>
 
 # DIY projects and ideas
@@ -297,20 +292,14 @@ Coming soon...
 <div class="spacer"></div>
 
 
-<a class="linkedin-btn"
+<a class="contact-style linkedin-btn"
    href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
    target="_blank"
    rel="noopener noreferrer">
   LinkedIn
 </a>
 
-
-edvin02.em@gmail.com
-
-
-+46 72 731 1846
-
-
-Broslättsgatan 37b
-
-431 31 Mölndal
+<p class="contact-style">edvin02.em@gmail.com</p>
+<p class="contact-style">+46 72 731 1846</p>
+<p class="contact-style">Broslättsgatan 37b</p>
+<p class="contact-style">431 31 Mölndal</p>
