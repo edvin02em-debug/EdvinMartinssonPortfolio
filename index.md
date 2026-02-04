@@ -296,6 +296,21 @@ concealed as a bench when the table part is not needed.
 
 <div class="spacer"></div>
 
+## Fume extractor
+This is the concept of an affordable fume extractor.
+Fumes are extracted with a fan attached to the exhaust tube in the back.
+Users can switch between extracting fumes with the grate or the flexible tube.
+The tube is for when the gas is concentrated and origins from a small area.
+The most common use case is for soldering.
+The grate is for when the gas is spread out and the tube is not sufficient.
+For example washing mechanical parts with harsh chemicals or smaller paint jobs.
+<div class="two-grid">
+  <div class="grid-item">
+    <img src="assets/photos/fe_assembly1.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/fe_assembly2_1.jpg" alt="">
+  </div>
 
 ## 3D-Printning
 Coming soon...
