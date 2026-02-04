@@ -280,13 +280,19 @@ concealed as a bench when the table part is not needed.
 
 
 ## 3D-Printning
-    My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning
 Coming soon...
+
+<!-- My Friend graciously gifted me this Velleman Vertex K8400 3D-Printer. It required quite a bit of tinkering before I got it workning -->
+
 
 
 ## Rod dryer
 Coming soon...
 
+
+<div class="spacer"></div>
+
+<div class="spacer"></div>
 
 <div class="spacer"></div>
 
@@ -301,6 +307,9 @@ Coming soon...
 </a>
 
 <p class="contact-style">edvin02.em@gmail.com</p>
+
 <p class="contact-style">+46 72 731 1846</p>
+
 <p class="contact-style">Broslättsgatan 37b</p>
+
 <p class="contact-style">431 31 Mölndal</p>
