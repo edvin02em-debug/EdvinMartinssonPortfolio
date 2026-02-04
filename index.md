@@ -298,7 +298,7 @@ Coming soon...
 
 <div class="spacer"></div>
 
-
+#### Contact me!
 <a class="contact-style linkedin-btn"
    href="https://www.linkedin.com/in/edvin-martinsson-b371643a7"
    target="_blank"
