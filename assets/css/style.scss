@@ -140,6 +140,13 @@ a:hover {
   margin-bottom: 0;
 }
 
+/* Force LinkedIn to keep its own color */
+a.linkedin-btn.contact-style,
+a.linkedin-btn.contact-style:visited {
+  color: var(--linkedin-color, #FFFFE0);
+}
+
+
 /* =========================
    Two image grid with headers
    ========================= */
