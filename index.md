@@ -316,8 +316,8 @@ For example washing mechanical parts with harsh chemicals or smaller paint jobs.
 <div class="spacer"></div>
 
 ## 3D-Printning
-My Friend graciously gifted me this Vertex Velleman K8400 3D-Printer.
-It required quite a bit of tinkering before producing a successful print.
+A good friend graciously gifted me this Vertex Velleman K8400 3D-Printer.
+It required quite a bit of tinkering before producing any successful prints.
 When finally dialing in layer heights, thread height and much more one problem remained.
 The problem is insufficient cooling resulting in warped layers and surfaces which i hope to resolve soon.
 Two successful prints are the wheels in the Bentley Municial project and prototypes in the Frida project.
