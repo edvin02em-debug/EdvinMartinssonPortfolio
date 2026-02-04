@@ -234,13 +234,14 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
     <img src="assets/photos/IMG_1590.jpeg" alt="">
   </div>
   <div class="grid-item">
-    <img src="assets/photos/IMG_1602.jpeg" alt="">
+    <img src="assets/photos/IMG_1591.jpeg" alt="">
   </div>
-  <!--
   <div class="grid-item">
     <img src="assets/photos/IMG_1602.jpeg" alt="">
   </div>
-  
+  <div class="grid-item">
+    <img src="assets/photos/IMG_1603.jpeg" alt="">
+  </div>
 </div>
 
 <div class="spacer"></div>
