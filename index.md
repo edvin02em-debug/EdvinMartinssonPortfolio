@@ -312,7 +312,4 @@ Coming soon...
 <p class="contact-style">+46 72 731 1846</p>
 
 
-<p class="contact-style">Broslättsgatan 37b</p>
-
-
-<p class="contact-style">431 31 Mölndal</p>
+<p class="contact-style">Broslättsgatan 37b, 431 31 Mölndal</p>
