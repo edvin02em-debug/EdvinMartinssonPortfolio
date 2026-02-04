@@ -331,9 +331,13 @@ Two successful prints are the wheels in the Bentley Municial project and prototy
   </div>
 </div>
 
+<div class="spacer-short"></div>
+
   <div class="grid-item">
     <img src="assets/photos/IMG_0707.jpeg" alt="">
   </div>
+
+<div class="spacer-short"></div>
 
 <div class="two-grid"> 
   <div class="grid-item">
