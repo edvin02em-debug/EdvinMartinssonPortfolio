@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-This webpage is not yet fully finished. I hope to be done by february 5th.
 
 
 # Edvin Martinsson
@@ -349,11 +348,6 @@ Two successful prints are the wheels in the Bentley Municial project and prototy
 </div>
 
 <div class="spacer"></div>
-
-
-## Rod dryer
-Coming soon...
-
 
 <div class="spacer"></div>
 
