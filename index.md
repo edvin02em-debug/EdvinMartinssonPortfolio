@@ -255,7 +255,13 @@ I could really go on and on about this project
 
 <div class="two-grid">
   <div class="grid-item">
-    <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
+    <img src="assets/photos/IMG_1294.jpeg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/IMG_20230928_001347.jpg" alt="">
+  </div>
+  <div class="grid-item">
+    <img src="assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg" alt="">
   </div>
   <div class="grid-item">
     <img src="assets/photos/att.aqGFWg5o3uMpG7AOZaNO3J8tbrJF2id04T686qc9T1E.jpeg" alt="">
@@ -263,24 +269,21 @@ I could really go on and on about this project
   <div class="grid-item">
     <img src="assets/photos/att.u3H1d1rGUjPGBhjNjtqnSpF3Qh9wBqK_A9rWGSQHiu4.jpeg" alt="">
   </div>
-    <div class="grid-item">
-    <img src="assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg" alt="">
-  </div>
-    <div class="grid-item">
-    <img src="assets/photos/IMG_20231020_145713.jpg" alt="">
-  </div>
-    <div class="grid-item">
-    <img src="assets/photos/IMG_20230928_001347.jpg" alt="">
-  </div>
+  <div class="grid-item">
+    <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
+  </div>  
     <div class="grid-item">
     <img src="assets/photos/IMG_1507.jpeg" alt="">
   </div>
     <div class="grid-item">
-    <img src="assets/photos/IMG_1294.jpeg" alt="">
+    <img src="assets/photos/IMG_20231020_145713.jpg" alt="">
   </div>
 </div>
 
 <div class="spacer-short"></div>
+
+<div class="spacer"></div>
+
 
 <div class="image-grid">
   <div class="text-wrap">
