@@ -251,23 +251,32 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
 This is a fun project that my girlfriend and I are doing together. 
 We have spent many evenings and weekends designing, researching, and turning this old Renault into our home on wheels.
 This project has been a great learning experience as it has required me to do everything from mechanical work and wiring electronics to building a structurally sound interior.
+I could really go on and on about this project 
 
-
-<div class="image-grid">
-  <div class="img-wrap">
+<div class="two-grid">
+  <div class="grid-item">
     <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
   </div>
-  <div class="img-wrap">
-    <img src="assets/photos/att.F4Gd_sK2eYNHQhmM_ckzE_KoDN_GyqB4aE1gGag-TvA.jpeg" alt="">
-  </div>
-  <div class="img-wrap">
+  <div class="grid-item">
     <img src="assets/photos/att.aqGFWg5o3uMpG7AOZaNO3J8tbrJF2id04T686qc9T1E.jpeg" alt="">
   </div>
-  <div class="img-wrap">
+  <div class="grid-item">
     <img src="assets/photos/att.u3H1d1rGUjPGBhjNjtqnSpF3Qh9wBqK_A9rWGSQHiu4.jpeg" alt="">
   </div>
-    <div class="img-wrap">
+    <div class="grid-item">
     <img src="assets/photos/att.wViZBAfQsYdXS_YnU49SNDepbJnsB156btEKp0miwik.jpeg" alt="">
+  </div>
+    <div class="grid-item">
+    <img src="assets/photos/IMG_20231020_145713.jpg" alt="">
+  </div>
+    <div class="grid-item">
+    <img src="assets/photos/IMG_20230928_001347.jpg" alt="">
+  </div>
+    <div class="grid-item">
+    <img src="assets/photos/IMG_1507.jpeg" alt="">
+  </div>
+    <div class="grid-item">
+    <img src="assets/photos/IMG_1294.jpeg" alt="">
   </div>
 </div>
 
