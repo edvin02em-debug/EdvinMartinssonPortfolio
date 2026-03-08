@@ -248,6 +248,11 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
 
 # DIY projects and ideas
 ## Camper van build
+This is a fun project that my girlfriend and I are doing together. 
+We have spent many evenings and weekends designing, researching, and turning this old Renault into our home on wheels.
+This project has been a great learning experience as it has required me to do everything from mechanical work and wiring electronics to building a structurally sound interior.
+
+
 <div class="image-grid">
   <div class="img-wrap">
     <img src="assets/photos/att.1ehwjWjZwj8Orj22fNW0aZ2t7LkSmxrobNDZ4bqlVsg.jpeg" alt="">
