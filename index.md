@@ -251,7 +251,7 @@ The outcome was a 2-seater electric liftback that balances luxury and practicali
 This is a fun project that my girlfriend and I are doing together. 
 We have spent many evenings and weekends designing, researching, and turning this old Renault into our home on wheels.
 This project has been a great learning experience as it has required me to do everything from mechanical work and wiring electronics to building a structurally sound interior.
-I could really go on and on about this project 
+I could really go on and on about this project. Please go to our instagram @eoevanlife to follow our journey.
 
 <div class="two-grid">
   <div class="grid-item">
@@ -280,10 +280,7 @@ I could really go on and on about this project
   </div>
 </div>
 
-<div class="spacer-short"></div>
-
 <div class="spacer"></div>
-
 
 <div class="image-grid">
   <div class="text-wrap">
