@@ -52,6 +52,14 @@ $text-color: #FFFFE0;
 .project-tagline {
   opacity: 0.9;
 }
+
+@media (max-width: 768px) {
+  .page-header {
+    min-height: 350px;
+  }
+}
+
+
 /* =========================
    HEADER TITLE & TAGLINE
    ========================= */
