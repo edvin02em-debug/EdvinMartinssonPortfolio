@@ -10,7 +10,8 @@ layout: default
       <ul>
         <li><a href="#edvin-martinsson">About me</a></li>
         <li><a href="#computer-aided-design">Computer Aided Design</a></li>
-       ## <span id="photoshop-illustrator">Photoshop & Illustrator</span>        <li><a href="#diy-projects-and-ideas">DIY projects and ideas</a></li>
+        <li><a href="photoshop-illustrator">Photoshop & Illustrator</a><li>        
+        <li><a href="#diy-projects-and-ideas">DIY projects and ideas</a></li>
         <li><a href="#contact-me">Contact me</a></li>
       </ul>
     </div>
@@ -189,7 +190,7 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 
 <div class="spacer"></div>
 
-## Photoshop & Illustrator
+## <span id="photoshop-illustrator">Photoshop & Illustrator</span>
 ### BojCam - Design and Communication
 <p align="center">
   <img src="assets/photos/Posters_kamera_1.jpg" alt="" style="max-width:600px; width:100%;">
