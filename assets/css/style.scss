@@ -261,17 +261,21 @@ a.linkedin-btn.contact-style:visited {
 
 /* TOC */
 .page-with-toc {
-  display: grid;
-  grid-template-columns: 220px minmax(0, 1fr);
-  gap: 3.5rem;
-  align-items: start;
-  max-width: 1400px;
+  position: relative;
+}
+
+.toc-content {
+  max-width: 900px;
   margin: 0 auto;
+  min-width: 0;
 }
 
 .toc-sidebar {
-  position: relative;
-  margin-left: -80px;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-620px);
+  width: 220px;
 }
 
 .toc-box {
@@ -307,22 +311,26 @@ a.linkedin-btn.contact-style:visited {
   text-decoration: underline;
 }
 
-.toc-content {
-  min-width: 0;
-}
-
-@media (max-width: 1100px) {
+@media (max-width: 1200px) {
   .toc-sidebar {
-    margin-left: 0;
+    left: 2rem;
+    transform: none;
+  }
+
+  .toc-content {
+    max-width: 850px;
+    margin-left: 280px;
+    margin-right: auto;
   }
 }
 
 @media (max-width: 900px) {
-  .page-with-toc {
-    grid-template-columns: 1fr;
-  }
-
   .toc-sidebar {
     display: none;
+  }
+
+  .toc-content {
+    max-width: 900px;
+    margin: 0 auto;
   }
 }
