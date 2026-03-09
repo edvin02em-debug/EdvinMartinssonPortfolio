@@ -262,13 +262,16 @@ a.linkedin-btn.contact-style:visited {
 /* TOC */
 .page-with-toc {
   display: grid;
-  grid-template-columns: 240px minmax(0, 1fr);
-  gap: 2rem;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 3.5rem;
   align-items: start;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
 .toc-sidebar {
   position: relative;
+  margin-left: -80px;
 }
 
 .toc-box {
@@ -306,6 +309,12 @@ a.linkedin-btn.contact-style:visited {
 
 .toc-content {
   min-width: 0;
+}
+
+@media (max-width: 1100px) {
+  .toc-sidebar {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 900px) {
