@@ -2,7 +2,23 @@
 layout: default
 ---
 
+<div class="page-with-toc">
+  <aside class="toc-sidebar">
+    <div class="toc-box">
+      <h3>Contents</h3>
+      <ul>
+        <li><a href="#edvin-martinsson">About me</a></li>
+        <li><a href="#computer-aided-design">Computer Aided Design</a></li>
+        <li><a href="#alias">Alias</a></li>
+        <li><a href="#photoshop-illustrator">Photoshop & Illustrator</a></li>
+        <li><a href="#sketching">Sketching</a></li>
+        <li><a href="#diy-projects-and-ideas">DIY projects and ideas</a></li>
+        <li><a href="#contact-me">Contact</a></li>
+      </ul>
+    </div>
+  </aside>
 
+  <div class="toc-content">
 
 
 # Edvin Martinsson
@@ -386,3 +402,7 @@ Two successful prints are the wheels in the Bentley Municial project and prototy
 
 
 <p class="contact-style">Broslättsgatan 37b, 431 31 Mölndal</p>
+
+
+  </div>
+</div>
