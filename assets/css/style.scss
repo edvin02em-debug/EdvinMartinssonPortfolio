@@ -258,3 +258,62 @@ a.linkedin-btn.contact-style:visited {
   width: 100%;
   height: auto;
 }
+
+/* TOC */
+.page-with-toc {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
+}
+
+.toc-sidebar {
+  position: relative;
+}
+
+.toc-box {
+  position: sticky;
+  top: 2rem;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  padding: 1rem 1.1rem;
+  border-radius: 12px;
+}
+
+.toc-box h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.toc-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc-box li {
+  margin: 0.5rem 0;
+}
+
+.toc-box a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.toc-box a:hover {
+  text-decoration: underline;
+}
+
+.toc-content {
+  min-width: 0;
+}
+
+@media (max-width: 900px) {
+  .page-with-toc {
+    grid-template-columns: 1fr;
+  }
+
+  .toc-sidebar {
+    display: none;
+  }
+}
