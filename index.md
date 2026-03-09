@@ -2,9 +2,6 @@
 layout: default
 ---
 
----
-layout: default
----
 
 <div class="page-with-toc">
   <aside class="toc-sidebar">
