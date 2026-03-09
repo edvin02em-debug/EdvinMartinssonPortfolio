@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     /* activate last section near page bottom */
-    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 1000) {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight - 600) {
       currentSection = sections[sections.length - 1];
     }
 
