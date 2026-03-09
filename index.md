@@ -400,6 +400,3 @@ Two successful prints are the wheels in the Bentley Municial project and prototy
 
 <p class="contact-style">Broslättsgatan 37b, 431 31 Mölndal</p>
 
-
-  </div>
-</div>
