@@ -10,8 +10,7 @@ layout: default
       <ul>
         <li><a href="#edvin-martinsson">About me</a></li>
         <li><a href="#computer-aided-design">Computer Aided Design</a></li>
-        <li><a href="#photoshop-illustrator">Photoshop & Illustrator</a></li>
-        <li><a href="#sketching">Sketching</a></li>
+        <span id="photoshop-illustrator">Photoshop & Illustrator</span>        <li><a href="#sketching">Sketching</a></li>
         <li><a href="#diy-projects-and-ideas">DIY projects and ideas</a></li>
         <li><a href="#contact-me">Contact me</a></li>
       </ul>
