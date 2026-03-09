@@ -2,6 +2,10 @@
 layout: default
 ---
 
+---
+layout: default
+---
+
 <div class="page-with-toc">
   <aside class="toc-sidebar">
     <div class="toc-box">
@@ -18,7 +22,8 @@ layout: default
     </div>
   </aside>
 
-  <div class="toc-content">
+  <div class="toc-content" markdown="1">
+
 
 
 # Edvin Martinsson
