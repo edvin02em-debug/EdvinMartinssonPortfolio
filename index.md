@@ -163,8 +163,8 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 
 <div class="spacer"></div>
 
-## Alias
-<h3 style="text-align: center;">Train</h3>
+### Alias
+<h4 style="text-align: center;">Train</h4>
 <div class="img-wrap">
     <img src="assets/photos/train.jpg" alt="">
   </div>
@@ -174,13 +174,13 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 <div class="big-left-grid">
   <!-- Left tall -->
   <div class="card tall">
-    <h3>Perfume bottle</h3>
+    <h4>Perfume bottle</h4>
     <img src="assets/photos/parfymflaska.jpg" alt="">
   </div>
 
   <!-- Top right -->
   <div class="card">
-    <h3>Hand-held vacuum cleaner</h3>
+    <h4>Hand-held vacuum cleaner</h4>
     <img src="assets/photos/dammsugare.jpg" alt="">
   </div>
 
