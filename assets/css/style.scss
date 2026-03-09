@@ -25,13 +25,10 @@ $text-color: #FFFFE0;
    HEADER BACKGROUND
    ========================= */
 .page-header {
-  background: linear-gradient(
-    to right,
-    $header-edge 0%,
-    $header-center 50%,
-    $header-edge 100%
-  ) !important;
-  background-image: none;
+  background-image: url("/assets/photos/IMG_2153.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* =========================
