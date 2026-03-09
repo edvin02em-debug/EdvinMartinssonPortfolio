@@ -33,7 +33,7 @@ $text-color: #FFFFE0;
 
 .project-name,
 .project-tagline {
-  display: inline-block;
+  display: table;
   background: rgba(0,0,0,0.45);
   backdrop-filter: blur(3px);
   padding: 8px 18px;
@@ -41,6 +41,13 @@ $text-color: #FFFFE0;
   margin: 6px auto;
 }
 
+.project-name {
+  margin-bottom: 8px;
+}
+
+.project-tagline {
+  opacity: 0.9;
+}
 /* =========================
    HEADER TITLE & TAGLINE
    ========================= */
