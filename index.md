@@ -7,7 +7,7 @@ layout: default
   <div class="toc-box">
     <h3>Contents</h3>
     <ul>
-      <li><a href="#about-me">About me</a></li>
+      <li><a href="#edvin-martinsson">About me</a></li>
       <li><a href="#computer-aided-design">Computer Aided Design</a></li>
       <li><a href="#photoshop-illustrator">Photoshop & Illustrator</a></li>
       <li><a href="#diy-projects-and-ideas">DIY projects and ideas</a></li>
