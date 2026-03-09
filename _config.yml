@@ -5,3 +5,6 @@ author_name: Edvin Martinsson
 description: "The purpose of this portfolio webpage is to showcase my skills as a soon-to-be product design engineer."
 
 theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
