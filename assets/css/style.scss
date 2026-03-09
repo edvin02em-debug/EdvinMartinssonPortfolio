@@ -29,6 +29,10 @@ $text-color: #FFFFE0;
   /*background-size: cover;*/
   background-position: center;
   background-repeat: no-repeat;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .project-name,
