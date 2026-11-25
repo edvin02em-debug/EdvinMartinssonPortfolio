@@ -180,19 +180,18 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
       allowfullscreen>
     </iframe>
   </div>
-
-   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img
-      src="assets/photos/ritning_rapport.jpg"
-      alt="skotarkran"
-      style="max-width: 600px; width: 90%;"
-    >
+  
+<div class="image-grid">
+  <div class="img-wrap">
+    <img src="assets/photos/Colorama_vagn.jpg" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/push_cart.png" alt="">
+  </div>
+  <div class="img-wrap">
+    <img src="assets/photos/pc_interface.jpg" alt="">
   </div>
 </div>
-<div class="img-wrap">
-    <img src="assets/photos/skotarkran_frilaggning.jpg" alt="">
-    <img src="assets/photos/ritning_rapport.jpg" alt="">
-  </div>
 
 <div class="spacer"></div>
 
