@@ -183,13 +183,13 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
   
 <div class="image-grid">
   <div class="img-wrap">
-    <img src="assets/photos/Colorama_vagn.jpg" alt="">
+    <img src="assets/photos/1.png" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/push_cart.png" alt="">
+    <img src="assets/photos/2.png" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/pc_interface.jpg" alt="">
+    <img src="assets/photos/3.png" alt="">
   </div>
 </div>
 
@@ -221,6 +221,10 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
     <p>These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
   </div>
 </div>
+
+<div class="img-wrap">
+    <img src="assets/photos/4.png" alt="">
+  </div>
 
 <div class="spacer"></div>
 
