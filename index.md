@@ -161,6 +161,15 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
 
 <div class="spacer"></div>
 
+### Developement of height-adjustable dishwasher baskets
+The resulting concept of a ten-week product development group project carried out in collaboration with ASKO. 
+The group was tasked with developing a mechanical height-adjustment mechanism for the upper dishwasher basket, aimed at improving flexibility, safety and usability. 
+The project was based on customer interviews and surveys, followed by systematic ideation, concept evaluation and technical development. 
+Throughout the project, there was a strong emphasis on iterative design, CAD modelling, material selection and functional testing of full-scale 3D-printed prototypes.
+
+
+<div class="spacer"></div>
+
 ### Alias - Surface modelling
 <h4 style="text-align: center;">Train</h4>
 <div class="img-wrap">
@@ -187,14 +196,6 @@ It allows the user to higher and lower the handle and shelf of the cart to an op
     <p>These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
   </div>
 </div>
-
-<div class="spacer"></div>
-
-### Developement of height-adjustable dishwasher baskets
-The resulting concept of a ten-week product development group project carried out in collaboration with ASKO. 
-The group was tasked with developing a mechanical height-adjustment mechanism for the upper dishwasher basket, aimed at improving flexibility, safety and usability. 
-The project was based on customer interviews and surveys, followed by systematic ideation, concept evaluation and technical development. 
-Throughout the project, there was a strong emphasis on iterative design, CAD modelling, material selection and functional testing of full-scale 3D-printed prototypes.
 
 <div class="spacer"></div>
 
