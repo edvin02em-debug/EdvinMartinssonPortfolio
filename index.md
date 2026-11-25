@@ -222,10 +222,6 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
     <img src="assets/photos/4.png" alt="">
 </div>
 
-<div class="img-wrap">
-    <img src="assets/photos/4.png" alt="">
-  </div>
-
 <div class="spacer"></div>
 
 ## <span id="photoshop-illustrator">Photoshop & Illustrator</span>
