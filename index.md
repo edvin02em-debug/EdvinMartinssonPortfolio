@@ -181,6 +181,18 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
     </iframe>
   </div>
 
+   <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img
+      src="assets/photos/ritning_rapport.jpg"
+      alt="skotarkran"
+      style="max-width: 600px; width: 90%;"
+    >
+  </div>
+</div>
+<div class="img-wrap">
+    <img src="assets/photos/skotarkran_frilaggning.jpg" alt="">
+  </div>
+
 <div class="spacer"></div>
 
 ### Alias - Surface modelling
