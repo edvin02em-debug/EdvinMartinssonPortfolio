@@ -186,10 +186,10 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
     <img src="assets/photos/1.png" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/2.png" alt="">
+    <img src="assets/photos/3.png" alt="">
   </div>
   <div class="img-wrap">
-    <img src="assets/photos/3.png" alt="">
+    <img src="assets/photos/2.png" alt="">
   </div>
 </div>
 
@@ -218,8 +218,8 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
 
   <!-- Bottom right -->
   <div class="card">
-    <p>These where made as part of a course to showcase proficiency in Alias. I am excited to do more of this type of CAD.</p>
-  </div>
+    <h4>Screwdriver</h4>
+    <img src="assets/photos/4.png" alt="">
 </div>
 
 <div class="img-wrap">
