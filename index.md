@@ -220,6 +220,7 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
   <div class="card">
     <h4>Screwdriver</h4>
     <img src="assets/photos/4.png" alt="">
+   </div>
 </div>
 
 <div class="spacer"></div>
