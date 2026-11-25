@@ -173,7 +173,7 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
     <iframe
       width="350"
       height="260"
-      src="https://youtu.be/GE4_mwWvIPA?si=AluH1eHcbVEH80re"
+      src="[https://youtu.be/GE4_mwWvIPA?si=AluH1eHcbVEH80re](https://youtu.be/GE4_mwWvIPA)"
       title="YouTube video"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
