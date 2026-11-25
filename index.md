@@ -191,6 +191,7 @@ Throughout the project, there was a strong emphasis on iterative design, CAD mod
 </div>
 <div class="img-wrap">
     <img src="assets/photos/skotarkran_frilaggning.jpg" alt="">
+    <img src="assets/photos/ritning_rapport.jpg" alt="">
   </div>
 
 <div class="spacer"></div>
