@@ -308,39 +308,7 @@ I could really go on and on about this project. Please go to our instagram @eoev
 
 <div class="spacer"></div>
 
-## BenchTable
-A dual purpose picnic table/bench for smaller patios. A practical table that can be transformed and
-concealed as a bench when the table part is not needed.
 
-<div class="two-grid">
-  <div class="grid-item">
-    <img src="assets/photos/Skärmbild 2026-02-04 010538.png" alt="">
-  </div>
-  <div class="grid-item">
-    <img src="assets/photos/Skärmbild 2026-02-04 010727.png" alt="">
-  </div>
-</div>
-
-<div class="spacer"></div>
-
-## Fume extractor
-This is the concept of an affordable fume extractor visualized in Autodesk Fusion.
-Fumes are extracted with a fan attached to the exhaust tube in the back.
-Users can switch between extracting fumes with the grate or the flexible tube.
-The tube is for when the gas is concentrated and origins from a small area.
-The most common use case is for soldering.
-The grate is for when the gas is spread out and the tube is not sufficient.
-For example washing mechanical parts with harsh chemicals or smaller paint jobs.
-<div class="two-grid">
-  <div class="grid-item">
-    <img src="assets/photos/fe_assembly1.jpg" alt="">
-  </div>
-  <div class="grid-item">
-    <img src="assets/photos/fe_assembly2_1.jpg" alt="">
-  </div>
-</div>
-
-<div class="spacer"></div>
 
 ## 3D-Printning
 A good friend graciously gifted me this Vertex Velleman K8400 3D-Printer.
