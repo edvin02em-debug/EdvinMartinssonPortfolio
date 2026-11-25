@@ -167,7 +167,7 @@ The group was tasked with developing a mechanical height-adjustment mechanism fo
 The project was based on customer interviews and surveys, followed by systematic ideation, concept evaluation and technical development. 
 Throughout the project, there was a strong emphasis on iterative design, CAD modelling, material selection and functional testing of full-scale 3D-printed prototypes.
 
-<div style="display: flex; gap: 2rem; justify-content: center; align-items: center; flex-wrap: wrap; margin: 2rem 0;">
+
   <!-- Video -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <iframe
